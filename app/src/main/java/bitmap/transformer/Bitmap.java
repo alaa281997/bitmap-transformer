@@ -1,4 +1,4 @@
-package bitmap.transformer;
+package main.java.bitmap.transformer;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
